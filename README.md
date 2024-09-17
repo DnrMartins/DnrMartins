@@ -27,7 +27,7 @@ Fizemos projeto de logística com a empresa Loggi transportadora usando a lingua
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/denner-martins-)
 
-[<img src='https://stock.adobe.com/br/images/mail-icon-vector-email-sign/361490175' alt='Email' height='30'>](Bookingdenner@gmail.com)
+Email- Bookingdenner@gmail.com
 
  
 
