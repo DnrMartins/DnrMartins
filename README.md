@@ -10,3 +10,7 @@ Fizemos projeto de logística com a empresa Loggi transportadora usando a lingua
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DnrMartins&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DnrMartins&repo=Projeto-Alfabetizacao-Mundial-por-Pais.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
